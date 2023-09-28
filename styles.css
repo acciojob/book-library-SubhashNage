@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+body{
+	background-color :#f8f8f8 ;
+}
+img{
+	display:block;
+	justify-content:center;
+	color:rgb(255, 255, 255);
+	background-color:rgb(46, 204, 113);
+	
+}
+.book-library{
+	background-color:#ffffff;
+}
+
+.book{
+	color: #777777 ;
+}
+
+.price-block{
+	color:white;
+	background-color:#2ecc71;
+	border:none;
+	width:100%;
+}
+		
+	
+}
